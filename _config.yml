@@ -374,7 +374,7 @@ name                     : &name "Yaqian Liu"
 description              : &description "Yaqian Liu's academic portfolio"   # 网站的描述信息
 url                      : "https://pupu0.github.io" # 【极其重要】请将 YourUsername 替换为您的 GitHub 用户名
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Yaqian-Liu.github.io" # 【极其重要】请将 YourUsername 替换为您的 GitHub 用户名
+repository               : "pupu0.github.io" # 【极其重要】请将 YourUsername 替换为您的 GitHub 用户名
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
